@@ -13,7 +13,7 @@
         transparent, 
         var(--color-primary),
         transparent);
-    display: grid;
+    display: center;
     place-items: center;
 }
 

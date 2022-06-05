@@ -21,20 +21,23 @@ header{
 
 /* ================== HEADER SOCIALS ================== */
 .header__socials{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 0.8rem;
+    display:inline-flex;
+    font-size: 30px;
+   /* margin-left:0px;*/
+    flex-direction:column;
+    align-items:center;
+    gap: 0rem;
     position: absolute;
-    left: 0;
-    bottom: 3rem;
+
+    bottom: 2rem;
+
 }
-.header__socials::after {
+/*.header__socials::after {
     content: "";
     width: 1px;
     height: 2rem;
     background-color: var(--color-primary);
-}
+}*/
 
 /* ================== HEADER SOCIALS ================== */
 .me{
