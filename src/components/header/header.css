@@ -12,6 +12,7 @@ header{
     position:absolute;
     left: calc(20% - 3rem);
     text-align: center;
+    bottom: 2rem;
 
 }
 
@@ -75,6 +76,10 @@ header{
     header {
         height: 68vh;
     }
+    .header__socials,
+    .scroll__down {
+        display: flex;
+    }
 }
 
 /* -------------------- MEDIA QUERIES (SMALL DEVICES) -------------------- */
@@ -86,6 +91,6 @@ header{
 
     .header__socials,
     .scroll__down {
-        display: none;
+        display:flex;
     }
 }
