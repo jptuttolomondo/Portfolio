@@ -49,8 +49,8 @@ header{
 /* ================== HEADER SOCIALS ================== */
 .me{
     background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
-    height: 30rem;
+    width: 15rem;
+    height: 20rem;
     position: absolute;
     align-items:center;
    left: calc(30% - 1rem);
