@@ -1,5 +1,5 @@
 header{
-    height: 100vh;
+    height: 170vh;
     padding-top: 7rem;
     overflow: hidden;
 }
@@ -10,7 +10,7 @@ header{
     height: 100%;
 
     position:absolute;
-    left: calc(5% - 3rem);
+    left: calc(5% - 2rem);
     text-align: center;
     bottom: 2rem;
 
@@ -18,9 +18,9 @@ header{
 
 /* ================== CTA ================== */
 .cta{
-    margin-top: 2.5rem;
+    margin-top: 2rem;
     display: flex;
-    gap: 1.2rem;
+    gap: 1rem;
     justify-content: center;
 }
 
