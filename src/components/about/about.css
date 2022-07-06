@@ -1,5 +1,5 @@
 .about__container{
-    padding:1rem 16rem;
+    padding:1rem 1rem;
     display: grid;
     grid-template-columns: auto;
     gap: 5%;
