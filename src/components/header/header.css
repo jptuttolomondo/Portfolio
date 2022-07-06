@@ -1,5 +1,5 @@
 header{
-    height: 63vh;
+    height: 92vh;
     padding-top: 7rem;
     overflow: hidden;
 }
@@ -29,7 +29,7 @@ header{
 .header__socials{
     margin-top: -17rem;
     margin-left: 15em;
-    margin-bottom: 20rem;
+    margin-bottom: 10rem;
 
     display:grid;
     font-size: 30px;
@@ -104,7 +104,7 @@ header{
 
 @media screen and (max-width: 360px) {
     header {
-        height: 100vh;
+        height: 132vh;
     }
 
     .header__socials,

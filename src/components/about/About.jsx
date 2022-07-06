@@ -20,7 +20,7 @@ const About = () => {
                         <article className="about__card">
                             <FaAward className="about__icon"/>
                             <h5>Experience</h5>
-                            <small>Image Processing, Machine Learnig whith QGIS Precision Agriculture, from satellite and drone's images</small>
+                            <small>e-commerce app, academic works backend and frontend . Image Processing, Machine Learnig whith QGIS Precision Agriculture, from satellite and drone's images</small>
                         </article>
 
                         <article className="about__card">

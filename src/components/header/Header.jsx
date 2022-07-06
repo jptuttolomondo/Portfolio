@@ -21,8 +21,8 @@ const Header = () => {
                
 <HeaderSocials />
           
-               {/* <HeaderSocials />
-                <CTA />*/}
+           
+                <CTA />
               
 
                
