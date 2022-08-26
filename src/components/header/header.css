@@ -57,7 +57,7 @@ header{
     background: linear-gradient(var(--color-primary), transparent);
     width: 15em;
     height: 17em;
-    margin-left: 3em;
+    margin-left: -5em;
     position: relative;
     align-items:center;
    left: calc(30% - 1rem);
