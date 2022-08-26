@@ -1,26 +1,26 @@
 header{
     height: 92vh;
-    padding-top: 7rem;
+   padding-top: 7rem;
     overflow: hidden;
 }
 
 .header_container{
     text-align: center;
 
-    height: 50%;
+   height: 50%;
 
-   /* position:relative;*/
+   position:relative;
     left: calc(8% - 2rem);
     text-align: center;
-    bottom: -2rem;
+    bottom: 6rem;
 
 }
 
 /* ================== CTA ================== */
 .cta{
-    margin-top: 2rem;
-    display: flex;
-    gap: 1rem;
+  margin-top: 9rem;
+   display:flex;
+    gap: 2rem;
     justify-content: center;
 }
 
@@ -56,15 +56,15 @@ header{
 .me{
     background: linear-gradient(var(--color-primary), transparent);
     width: 15em;
-    height: 20em;
-    margin-left: -2em;
+    height: 17em;
+    margin-left: 3em;
     position: relative;
     align-items:center;
    left: calc(30% - 1rem);
     margin-top: 2rem;
-    border-radius: 1rem 1rem 0 0;
+    border-radius: 1rem 1rem 1rem 1rem;
     overflow: hidden;
-    padding: 2.5rem 1.5rem 1.5rem 1rem;
+    padding: 1rem 1rem 1rem 1rem;
 }
 
 /* ================== HEADER SOCIALS ================== */
