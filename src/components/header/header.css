@@ -10,9 +10,10 @@ header{
    height: 50%;
 
    position:relative;
-    left: calc(8% - 2rem);
+  
+  /* left: calc(8% - 6rem);*/
     text-align: center;
-    bottom: 6rem;
+    bottom: 10rem;
 
 }
 
@@ -28,7 +29,7 @@ header{
 /* ================== HEADER SOCIALS ================== */
 .header__socials{
     margin-top: -17rem;
-    margin-left: 15em;
+    margin-left: 12em;
     margin-bottom: 10rem;
 
     display:grid;
@@ -57,7 +58,7 @@ header{
     background: linear-gradient(var(--color-primary), transparent);
     width: 15em;
     height: 17em;
-    margin-left: -5em;
+    margin-left: 0em;
     position: relative;
     align-items:center;
    left: calc(30% - 1rem);
