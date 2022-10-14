@@ -22,7 +22,7 @@ const Header = () => {
 <HeaderSocials />
           
            
-                <CTA />
+                <CTA/>
               
 
                
