@@ -98,6 +98,35 @@ const Experience = () => {
                         </article>
                  
 
+
+</div>
+<div>  
+                        <h3>Project Management</h3>
+                    <div className="experience__content">
+                    <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
+                                <h4>Agile Methodologies </h4>
+                                <small className="text-light">Experienced</small>
+                            </div>
+                        
+                        </article>
+                    <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
+                                <h4>Scrum Master</h4>
+                                <small className="text-light">Basic</small>
+                            </div>
+                        </article>
+                    <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
+                                <h4>Making Case Study </h4>
+                                <small className="text-light">Experienced</small>
+                            </div>
+                        </article>
+                        </div>
+
                        
                     </div>
                 </div>
@@ -155,6 +184,15 @@ const Experience = () => {
                                 <small className="text-light">Intermediate</small>
                             </div>
                         </article>
+                        <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
+                                <h4>MongoDb</h4>
+                                <small className="text-light">Intermediate</small>
+                            </div>
+                        </article>
+
+
                      
                     </div>
                     <h3>Production Services</h3>
@@ -173,6 +211,15 @@ const Experience = () => {
                                 <small className="text-light">Intermediate</small>
                             </div>
                         </article>
+
+                        <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
+                                <h4>Azure Web Services- Azure Active directory</h4>
+                                <small className="text-light">Intermediate</small>
+                            </div>
+                        </article>
+
                         </div>
                         
                     <h3>Other skills</h3>
@@ -199,6 +246,16 @@ const Experience = () => {
                                 <small className="text-light">Certified ANAC (Argentina)</small>
                             </div>
                         </article>
+
+ <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
+                                <h4>Microsoft Office 365</h4>
+                                <small className="text-light">experienced</small>
+                            </div>
+                        </article>
+
+
                         </div>
                 </div>
             </div>
