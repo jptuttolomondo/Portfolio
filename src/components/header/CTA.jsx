@@ -1,5 +1,5 @@
-import CVSpanish from "../../assets/CV_JPTuttolomondoSpanish102022.pdf";
-import CVEnglish from "../../assets/CV_JPTuttolomondoEnglish102022.pdf";
+import CVSpanish from "../../assets/CV_JPTuttolomondoSpanish122022.pdf";
+import CVEnglish from "../../assets/CV_JPTuttolomondoEnglish122022.pdf";
 
 const CTA = () => {
     return (
