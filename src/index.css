@@ -8,7 +8,8 @@
     border: 0;
     border: 0;
     outline: 0;
-    box-sizing: border-box;
+    border-radius: 0.5rem;
+    /*box-sizing: border-box;*/
     list-style: none;
     text-decoration: none;
 }
@@ -59,6 +60,9 @@ h5 {
 
 h1{
     font-size:  2.5rem;
+}
+h3{
+    font-size: 1.5rem;
 }
 
 section{

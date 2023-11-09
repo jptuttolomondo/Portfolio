@@ -1,13 +1,14 @@
 header{
-    height: 93vh;
-   padding-top: 1rem;
+    height: 57vh;
+   padding-top: 9rem;
+   padding-bottom: 9rem;
     overflow: hidden;
 }
 
 .header_container{
     text-align: center;
 
-   height: 50%;
+   height: 80%;
 
  /*  position:relative;*/
   
@@ -55,17 +56,18 @@ header{
 
 /* ================== HEADER SOCIALS ================== */
 .me{
-    background: linear-gradient(var(--color-primary), transparent);
+    background: linear-gradient(#2274e5, #4e5d8454);
     width: 15em;
     height: 17em;
     margin-left: 0em;
     position: relative;
-    align-items:center;
-   left: calc(30% - 1rem);
+    align-items: center;
+    left: calc(30% - 1rem);
     margin-top: 2rem;
     border-radius: 1rem 1rem 1rem 1rem;
     overflow: hidden;
-    padding: 1rem 1rem 1rem 1rem;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+
 }
 
 /* ================== HEADER SOCIALS ================== */
@@ -82,7 +84,7 @@ header{
 
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh;
+        height: 27vh;
     }
     .header__socials,
     .scroll__down {
@@ -94,7 +96,7 @@ header{
 
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        height: 48vh;
     }
 
     .header__socials,
@@ -105,7 +107,7 @@ header{
 
 @media screen and (max-width: 360px) {
     header {
-        height: 132vh;
+        height: 33vh;
     }
 
     .header__socials,

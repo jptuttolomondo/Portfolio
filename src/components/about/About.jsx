@@ -1,6 +1,6 @@
 import React from "react";
 import './about.css';
-import ME from '../../assets/Pablo.jpg';
+
 import { FaAward } from 'react-icons/fa';
 import { FiUsers } from 'react-icons/fi';
 import { VscFolderLibrary } from 'react-icons/vsc';
@@ -37,7 +37,10 @@ const About = () => {
                     </div>
 
                     <p>
-                        I am Systems Analyst Bachelor and I updated to FullStack development and learning new technologies. At 53 years old, I want to help to simplify people's lives .Welcome!!
+                        I am a Systems Analyst Bachelor and I updated to FullStack development and learning new technologies. 
+                    </p>
+                    <p>
+                       I want to help to simplify people's lives .Welcome!!
                     </p>
 
                     <a href="#contact" className="btn btn-primary">Let's Talk</a>
